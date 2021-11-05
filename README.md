@@ -1,4 +1,4 @@
-# Vet Animals Database
+# Vet-clinic
 
 This project used the relational database to create the data structure for a vet clinic. Apart from the building data structure, here will be challenged with tasks that require SQL queries to answer specific questions.
 
@@ -42,4 +42,3 @@ Give a ⭐️ if you like this project!
 
 - Thanks to Microverse
 - Yannick AKA
-
