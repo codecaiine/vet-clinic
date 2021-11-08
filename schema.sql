@@ -56,3 +56,10 @@ CREATE TABLE visits (
 );
 
 ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+-- Decrease the execution time of the first query
+
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animalS_id = 4;
+CREATE INDEX visits_animals_id_asc ON visits(animals_id ASC);
+\d visits
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animalS_id = 4;
