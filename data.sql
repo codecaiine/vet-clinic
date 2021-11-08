@@ -59,4 +59,4 @@ insert into owners (full_name, email) select 'Owner ' || generate_series(1,25000
 insert into owners (full_name, email) select 'Owner ' || generate_series(1,2500000), 'owner_' || generate_series(1,2500000) || '@mail.com';
 insert into owners (full_name, email) select 'Owner ' || generate_series(1,2500000), 'owner_' || generate_series(1,2500000) || '@mail.com';
 
-explain analyze SELECT COUNT(*) FROM visits where animals_id = 4; 
+explain analyze SELECT COUNT(*) FROM visits where animals_id = 4;
