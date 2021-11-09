@@ -58,7 +58,7 @@ CREATE TABLE visits (
 -- Add an email column to your owners table
 ALTER TABLE owners ADD COLUMN email VARCHAR(120);
 
--- Find a way to decrease the execution time of the first query. Look for hints in the previous lessons.
+-- Find a way to decrease the execution time of the first query. Find hints in the previous lessons.
 EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animalS_id = 4;
 CREATE INDEX visits_animals_id_asc ON visits(animals_id ASC);
 \d visits
@@ -66,7 +66,9 @@ EXPLAIN ANALYZE SELECT COUNT(*) FROM visits where animalS_id = 4;
 
 
 -- Decrease the execution time of the first query.
+EXPLAIN ANALYZE SELECT * FROM visits WHERE vets_id = 2;
 CREATE INDEX visits_visits_id_asc ON visits(vets_id ASC);
+\d visits
 EXPLAIN ANALYZE SELECT * FROM visits WHERE vets_id = 2;
 
 -- Decrease he execution time of the third query
