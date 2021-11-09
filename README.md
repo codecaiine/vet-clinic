@@ -28,6 +28,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@yannicknaka](https://twitter.com/yannicknaka)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yannick-no%C3%ABl-aka/)
 
+👤 **Yannick-Noel AKA**
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
