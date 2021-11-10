@@ -2,6 +2,8 @@
 
 This project used the relational database to create the data structure for a vet clinic. Apart from the building data structure, here will be challenged with tasks that require SQL queries to answer specific questions.
 
+![Diagram](./diagram.png)
+
 ## Built with
 
 - SQL
@@ -27,6 +29,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - GitHub: [@codecaiine](https://github.com/codecaiine)
 - Twitter: [@yannicknaka](https://twitter.com/yannicknaka)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yannick-no%C3%ABl-aka/)
+
+👤 **Yannick-Noel AKA**
 
 ## 🤝 Contributing
 
