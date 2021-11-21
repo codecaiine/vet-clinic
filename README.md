@@ -32,7 +32,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - Twitter: [@yannicknaka](https://twitter.com/yannicknaka)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yannick-no%C3%ABl-aka/)
 
-👤 **Yannick-Noel AKA**
+👤 **Olipliche Mavoungou Paka**
+- GitHub: [https://github.com/OLIPLICHE)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olipliche/)
+- Twitter: [@olipliche1](https://twitter.com/olipliche1)
+
 
 ## 🤝 Contributing
 
