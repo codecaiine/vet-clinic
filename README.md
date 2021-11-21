@@ -27,8 +27,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yannick-no%C3%ABl-aka/)
 
 👤 **Olipliche Mavoungou Paka**
-- GitHub: [https://github.com/OLIPLICHE)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/olipliche/)
+- GitHub: [OLIPLICHE](https://github.com/OLIPLICHE)
+- LinkedIn: [olipliche](https://www.linkedin.com/in/olipliche/)
 - Twitter: [@olipliche1](https://twitter.com/olipliche1)
 
 ## 🤝 Contributing
